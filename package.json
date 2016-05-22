@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-node-js",
+  "version": "1.0.0",
+  "description": "Node.js hello world",
+  "main": "main.js",
+  "dependencies": {
+    "hapi": "^13.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edudojevic/hello-world-node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edudojevic/hello-world-node-js/issues"
+  },
+  "homepage": "https://github.com/edudojevic/hello-world-node-js#readme"
+}
